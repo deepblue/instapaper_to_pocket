@@ -1,0 +1,7 @@
+/_build
+/cover
+/deps
+/config/dev.exs
+/instapaper_to_pocket
+erl_crash.dump
+*.ez
